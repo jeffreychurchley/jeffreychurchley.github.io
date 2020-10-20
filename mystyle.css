@@ -1,0 +1,68 @@
+div.relative {
+	position: relative;
+}
+
+body {
+	background-color:rgb(60, 60, 60);
+}
+
+/* start source: https://www.w3schools.com/html/html_images_background.asp */
+
+h2 {
+	height: 400px;
+	font-size:100px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	text-align: center;
+	text-shadow: -3px 3px #000;
+	background-image: url('images/HeaderRock.png');
+	background-attachment: fixed;
+	background-size: cover;
+	color: rgb(240,240,240);
+}
+
+/* end source: https://www.w3schools.com/html/html_images_background.asp */
+
+img {
+	float: left;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	clear: both;
+}
+
+p1 {
+	margin-top: 10px;
+	margin-bottom: 100px;
+	color: rgb(240,240,240);
+	font-size: 22px;
+	float: left;
+}
+
+/* start source: https://www.w3schools.com/css/css_navbar_horizontal.asp */
+ul {
+	list-style-type: none;
+	margin: 3px;
+	padding: 3px;
+	overflow: hidden;
+	background-color: #334;
+}
+
+li {
+	float: left;
+}
+
+/* start source: https://www.codesdope.com/blog/article/adding-outline-to-text-using-css/ */
+li a {
+	display: block;
+	color: rgb(240,240,240);
+	text-align: center;
+	font-size: 30px;
+	padding: 20px 20px;
+	box-shadow: 2px 2px 10px rgb(20,20,20);
+}
+/* end source: https://www.codesdope.com/blog/article/adding-outline-to-text-using-css/ */
+
+li a:hover {
+	background-color: #111;
+}
+/* end source: https://www.w3schools.com/css/css_navbar_horizontal.asp */
