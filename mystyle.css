@@ -30,14 +30,6 @@ img {
 	clear: both;
 }
 
-p1 {
-	margin-top: 10px;
-	margin-bottom: 100px;
-	color: rgb(240,240,240);
-	font-size: 22px;
-	float: left;
-}
-
 /* start source: https://www.w3schools.com/css/css_navbar_horizontal.asp */
 ul {
 	list-style-type: none;
